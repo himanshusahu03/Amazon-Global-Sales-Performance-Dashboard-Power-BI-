@@ -58,3 +58,4 @@ Power Query	ETL operations (clean, merge, transform)
 DAX	Computed metrics and KPIs
 Excel/CSV	Source data preprocessing
 
+preview deshboard:- https://github.com/himanshusahu03/Amazon-Global-Sales-Performance-Dashboard-Power-BI-/blob/main/Amazon%20Global%20Sales%20Performance%20Dashboard.png
